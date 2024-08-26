@@ -13,7 +13,7 @@ This project demonstrates i set up a continuous export pipeline from Google Clou
 - [References](#references)
 
 ## Overview
-In this project, we configure a continuous export of security findings from Google Cloud Security Command Center to a Pub/Sub topic. The export only includes newly created, active, and unmuted findings. This setup can be used to integrate with external security monitoring systems like Splunk.
+In this project, i configured a continuous export of security findings from Google Cloud Security Command Center to a Pub/Sub topic. The export only includes newly created, active, and unmuted findings. This setup can be used to integrate with external security monitoring systems like Splunk.
 
 ## Setup Instructions
 
@@ -74,7 +74,7 @@ These findings can then be forwarded to an external security monitoring system l
 
 ### Conclusion
 
-This task demonstrates how to set up continuous export of security findings from Google Cloud Security Command Center to Pub/Sub. This pipeline ensures that critical security findings are immediately available for external monitoring and response.
+This task demonstrates how i set up continuous export of security findings from Google Cloud Security Command Center to Pub/Sub. This pipeline ensures that critical security findings are immediately available for external monitoring and response.
 
 ### References
 - [Google Cloud Security Command Center Documentation](https://cloud.google.com/security-command-center/docs)

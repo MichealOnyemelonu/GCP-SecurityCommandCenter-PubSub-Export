@@ -1,6 +1,6 @@
 # Continuous Export Pipeline from Security Command Center to Pub/Sub
 
-This project demonstrates how to set up a continuous export pipeline from Google Cloud Security Command Center (SCC) to Pub/Sub. This export allows for the automatic forwarding of security findings to external systems like Splunk or QRadar for further analysis and response.
+This project demonstrates i set up a continuous export pipeline from Google Cloud Security Command Center (SCC) to Pub/Sub. This export allows for the automatic forwarding of security findings to external systems like Splunk or QRadar for further analysis and response.
 
 ## Table of Contents
 - [Overview](#overview)
